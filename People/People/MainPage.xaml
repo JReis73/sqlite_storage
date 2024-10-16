@@ -10,7 +10,7 @@
         <Entry x:Name="newPerson"
            Placeholder="Enter name" />
 
-        <Button Text="Add Person"
+        <Button Text="Add People"
             Grid.Row="1"
             Clicked="OnNewButtonClicked" />
 
